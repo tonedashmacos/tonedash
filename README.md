@@ -1,4 +1,5 @@
 Tonedash
+[![Watch Tone Dash Showcase](https://youtube.com)](https://www.youtube.com/watch?v=KkVQp6K_FXs)
 
 A controller-friendly game launcher for macOS, styled after the Aurora 360 dashboard. Point it at your game folders and emulators, and it gives you a cover-art carousel you can browse with a gamepad, keyboard or mouse.
 
