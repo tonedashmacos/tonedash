@@ -3,7 +3,7 @@ Tutorial and Showcase video is below :)
 
 [![Watch Tone Dash Showcase](https://youtube.com)](https://www.youtube.com/watch?v=KkVQp6K_FXs)
 
-------v1.1 is live, THEMES HAVE BEEN ADDED, AS OF NOW THERE ARE 2 THEMES. TONE (aurora inspired), & PS5 THEME------
+------v1.1 is live, THEMES HAVE BEEN ADDED, AS OF NOW THERE ARE 3 THEMES. TONE (aurora inspired), & PS4/PS5 THEME------
 
 ------V1.25 is live------
 
