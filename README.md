@@ -5,6 +5,19 @@ Tutorial and Showcase video is below :)
 
 ------v1.1 is live, themes have been added, as of now there are 2 themes. tone (aurora inspired), & PS5 theme------
 
+------V1.25 is live------
+
+NOW SUPPORTS ALL MACS FROM 12.XX TO 27.XX
+
+ADDED LIVE WALLPAPER VIDEO FEATURE FOR DASHBOARD BACKGROUND
+
+NOW HAVE THE ABILITY TO SHOW/HIDE THE ALL GAMES CATEGORY AND BUTTONS ON THE BOTTOM OF THE DASHBOARD HOMESCREEN
+
+ABILITY TO HIDE THE TIME ON THE TOP CORNER OF THE DASHBOARD
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
 A controller-friendly game launcher for macOS, styled after the Aurora 360 dashboard. Point it at your game folders and emulators, and it gives you a cover-art carousel you can browse with a gamepad, keyboard or mouse.
 
 
