@@ -6,7 +6,7 @@ Tutorial and Showcase video is below :)
 A controller-friendly game launcher for macOS, styled after the Aurora 360 dashboard. Point it at your game folders and emulators, and it gives you a cover-art carousel you can browse with a gamepad, keyboard or mouse.
 
 
-Tonedash is a launcher only. It doesn't include any emulators, games or ROMs. You supply your own.
+Tonedash is a launcher only. It doesn't include any emulators, games or ROMs. You MUST supply your own legally owned roms!
 
 Features
 
