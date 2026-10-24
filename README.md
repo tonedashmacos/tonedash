@@ -15,6 +15,8 @@ NOW HAVE THE ABILITY TO SHOW/HIDE THE ALL GAMES CATEGORY AND BUTTONS ON THE BOTT
 
 ABILITY TO HIDE THE TIME ON THE TOP CORNER OF THE DASHBOARD
 
+FAVORITES CATEGORY, TO ADD A GAME TO FAVORITES CLICK X OR PRESS THE X BUTTON ONSCREEN TO OPEN THE POPUP MENU
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
